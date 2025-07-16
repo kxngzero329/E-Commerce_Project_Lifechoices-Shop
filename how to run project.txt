@@ -1,0 +1,17 @@
+This is a basic level e-commerce website made with php, workbench(for the database) and bootstrap
+
+You can start running the project via xampp using the local host
+*The project MUST be in ht docs folder*
+
+Open Xampp , start the admin that will open your browser then paste the following
+*this is my path to the project*
+hhtps://localhost/php-exercises/basic_eCom_project/index.php
+
+it will open the main home page (for guests only)
+you can proceed to log in via the two users that was given to complete the project (johnboy or luke)
+
+logging in as either one will take you to their cart and their products page
+you can select the items from their products page as it will reflect on their cart's page
+
+on the cart's page you can change the quantity of the items you added to the cart
+and you can remove
